@@ -1,9 +1,11 @@
 from datetime import datetime
+from re import X
 import pandas as pd
 from sqlalchemy import Engine
 from sqlalchemy.engine import URL, create_engine
 from calendar import monthrange
 import logging
+import matplotlib.pyplot as plt
 
 
 def main(tables: dict):

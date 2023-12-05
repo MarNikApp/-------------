@@ -10,3 +10,29 @@ INFO:root:967250
 INFO:root:net_mon
 INFO:root:967250
 INFO:root:<built-in method now of type object at 0x00007FFD81423AB0>
+INFO:root:2023-12-05 16:17:42.089073
+INFO:root:rto_grs
+INFO:root:967250
+INFO:root:rto_net
+INFO:root:967250
+INFO:root:marj_net_persent
+INFO:root:773800
+INFO:root:marj_net_money
+INFO:root:967250
+INFO:root:net_mon
+INFO:root:967250
+INFO:root:2023-12-05 16:21:01.502733
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:root:2023-12-05 16:39:10.536131
+INFO:root:rto_grs
+INFO:root:967250
+INFO:root:rto_net
+INFO:root:967250
+INFO:root:marj_net_persent
+INFO:root:773800
+INFO:root:marj_net_money
+INFO:root:967250
+INFO:root:net_mon
+INFO:root:967250
+INFO:root:2023-12-05 16:42:07.637915
